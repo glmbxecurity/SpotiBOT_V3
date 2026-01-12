@@ -1,6 +1,7 @@
 # 🎧 Ultimate SpotiBOT v3
 
-**Ultimate SpotiBOT v3** es un bot de Telegram avanzado escrito en Python que actúa como tu asistente personal para gestionar, analizar y automatizar tu cuenta de Spotify. Desde crear las sesiones de entrenamiento perfectas hasta mantener tus playlists actualizadas automáticamente.
+**Ultimate SpotiBOT v3** es un bot de Telegram avanzado escrito en Python que actúa como tu asistente personal para gestionar, analizar y automatizar tu cuenta de Spotify. Desde crear las sesiones de entrenamiento perfectas hasta mantener tus playlists actualizadas automáticamente.  
+
 ![image](https://raw.githubusercontent.com/glmbxecurity/SpotiBOT_V3/refs/heads/main/images/spotibot4.png)
 ---
 
